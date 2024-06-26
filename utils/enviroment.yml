@@ -1,0 +1,15 @@
+name: tcc_venv
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11.8
+  - pip=24.0
+  - numpy=1.24.3
+  - pandas=2.0.1
+  - pymannkendall=1.4.3
+  - shap=0.45.0
+  - matplotlib=3.8.4
+  - seaborn=0.13.2
+  - scikit-learn=1.2.2
+  - imbalanced-learn=0.12.2
+  - ipykernel=6.22.0
